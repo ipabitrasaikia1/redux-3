@@ -1,0 +1,8 @@
+export const GET_TODO_LOADING = "GET_TODO_LOADING";
+export const GET_TODO_SUCCESS = "GET_TODO_SUCCESS";
+export const GET_TODO_FAIL = "GET_TODO_FAIL";
+
+
+export const ADD_TODO_LOADING = "ADD_TODO_LOADING";
+export const ADD_TODO_SUCCESS = "ADD_TODO_SUCCESS";
+export const ADD_TODO_FAIL = "ADD_TODO_FAIL";

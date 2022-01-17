@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+ 
+/* -------------------------- */ 
+
+.todo{
+  display: grid;
+  gap: 20px; 
+  background-color: rgb(93, 182, 255); 
+} 
+
+.todo-input{
+  background-color: cornflowerblue;
+  width: 40%;
+  height: 30px;
+  margin: auto;
+}
+.todo-input{
+  background-color: rgb(100, 149, 237);
+  width: 60%;
+  /* height: 30px; */
+  margin: auto; 
+ 
+}
+
+
+/* ------------- */
+#navbar{
+  display: flex ;
+  flex-wrap: wrap;
+  gap: 25%;
+    
+  width: 40%;
+  margin: auto;
+  background-color: rgb(204, 204, 255);
+
+} 
+.table{
+  width: 60%;
+  margin: auto;
+  background-color: aquamarine;
+}
